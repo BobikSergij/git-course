@@ -1,0 +1,115 @@
+body{
+    /*background-color: #e7e0e0;*/
+}
+
+h1{
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+}
+
+.imageCar{
+    max-width: 100%;
+}
+
+.imageCar img{
+    margin-left: 30%;
+    height: 380px;
+    width: 40%;
+}
+
+.colorSelector{
+    clear: both;
+}
+
+.colorSelector .colorItem{
+    height: 50px;
+    width: 50px;
+    margin-right: 2%;
+    float: left;
+    border-radius: 50%;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -khtml-border-radius: 50%;
+}
+
+.colorSelector .colorBlue{
+    background-color: blue;
+}
+
+.colorSelector .colorRed{
+    background-color: red;
+}
+
+.colorSelector .colorBlack{
+    background-color: black;
+}
+.colorSelector .colorBeige{
+    background-color: beige;
+}
+
+.colorSelector .colorOrange{
+    background-color: orangered;
+}
+
+.model-summary{
+    width: 17%;
+    float:right;
+    margin-right: 10%;
+    background-color: #e7e7e9;
+}
+
+.modelName{
+    font: bold 28px Arial,Verdana,Tahoma, sans-serif;
+    color: royalblue;
+}
+
+.modelSpecs{
+    margin-top: 6%;
+    margin-left: 6%;
+
+}
+
+.modelPrice{
+    font: bold 16px Arial,Verdana,Tahoma, sans-serif;
+    color: forestgreen;
+    margin-top: 6%;
+    margin-left: 6%;
+}
+
+.button{
+    background-color: cornflowerblue;
+    text-align: center;
+    width: 50%;
+    height: 20px;
+    border-radius: 22%;
+    margin: 6% 0 6% 25%;
+
+}
+
+
+
+form{
+    margin-top: 4%;
+    border: 5px solid #e7e7e9;
+    height: 330px;
+}
+
+.form-block{
+    margin-top: 1%;
+}
+
+#block1{
+    float: left;
+}
+
+#block2{
+    float: left;
+    margin-left: 20%;
+}
+
+#block3{
+    margin-left: 60%;
+}
